@@ -11,7 +11,6 @@
 		D3104CA01AAF885200BC1CD3 /* QuestionAnswerInteractorSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = D3104C9F1AAF885200BC1CD3 /* QuestionAnswerInteractorSpec.m */; };
 		D3104CA31AAFBEE600BC1CD3 /* QuestionAnswerPresenterSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = D3104CA21AAFBEE600BC1CD3 /* QuestionAnswerPresenterSpec.m */; };
 		D35CD5AE1AB222D30001C07D /* QuestionAnswerInterfaceController.m in Sources */ = {isa = PBXBuildFile; fileRef = D35CD5AD1AB222D30001C07D /* QuestionAnswerInterfaceController.m */; };
-		D35CD5B01AB222D30001C07D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D35CD5AF1AB222D30001C07D /* Images.xcassets */; };
 		D35CD5B41AB222D40001C07D /* VIPERCards WatchKit App.app in Resources */ = {isa = PBXBuildFile; fileRef = D35CD5B31AB222D40001C07D /* VIPERCards WatchKit App.app */; };
 		D35CD5BC1AB222D40001C07D /* Interface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D35CD5BA1AB222D40001C07D /* Interface.storyboard */; };
 		D35CD5BE1AB222D40001C07D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D35CD5BD1AB222D40001C07D /* Images.xcassets */; };
@@ -77,7 +76,6 @@
 		D35CD5AB1AB222D30001C07D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D35CD5AC1AB222D30001C07D /* QuestionAnswerInterfaceController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QuestionAnswerInterfaceController.h; sourceTree = "<group>"; };
 		D35CD5AD1AB222D30001C07D /* QuestionAnswerInterfaceController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QuestionAnswerInterfaceController.m; sourceTree = "<group>"; };
-		D35CD5AF1AB222D30001C07D /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		D35CD5B31AB222D40001C07D /* VIPERCards WatchKit App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "VIPERCards WatchKit App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D35CD5B91AB222D40001C07D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D35CD5BB1AB222D40001C07D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Interface.storyboard; sourceTree = "<group>"; };
@@ -152,7 +150,6 @@
 			children = (
 				D35CD5AC1AB222D30001C07D /* QuestionAnswerInterfaceController.h */,
 				D35CD5AD1AB222D30001C07D /* QuestionAnswerInterfaceController.m */,
-				D35CD5AF1AB222D30001C07D /* Images.xcassets */,
 				D35CD5AA1AB222D30001C07D /* Supporting Files */,
 			);
 			path = "VIPERCards WatchKit Extension";
@@ -393,7 +390,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D35CD5B01AB222D30001C07D /* Images.xcassets in Resources */,
 				D35CD5B41AB222D40001C07D /* VIPERCards WatchKit App.app in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
