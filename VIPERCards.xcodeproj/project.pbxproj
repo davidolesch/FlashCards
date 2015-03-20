@@ -355,6 +355,7 @@
 					};
 					D35CD5B21AB222D40001C07D = {
 						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = 992BT5FA7Z;
 					};
 					D3A37B3F1AAF527C00057E7D = {
 						CreatedOnToolsVersion = 6.2;
@@ -580,6 +581,7 @@
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "${TARGET_NAME}";
+				PROVISIONING_PROFILE = "4f9c2248-6d21-4874-a445-b8b63b4f01cc";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 			};
@@ -619,6 +621,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = "${TARGET_NAME}";
+				PROVISIONING_PROFILE = "4f9c2248-6d21-4874-a445-b8b63b4f01cc";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				VALIDATE_PRODUCT = YES;
@@ -643,6 +646,7 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -690,6 +694,7 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -924,6 +929,7 @@
 				D35CD5C51AB222D40001C07D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D35CD5C71AB222D40001C07D /* Build configuration list for PBXNativeTarget "VIPERCards WatchKit Extension" */ = {
 			isa = XCConfigurationList;
@@ -932,6 +938,7 @@
 				D35CD5C31AB222D40001C07D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D3A37B391AAF525100057E7D /* Build configuration list for PBXProject "VIPERCards" */ = {
 			isa = XCConfigurationList;
